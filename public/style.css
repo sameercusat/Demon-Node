@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: purple;
+}
+form {
+  padding: 10px;
+  margin-left: 25%;
+  width: 35vw;
+  height: 50vh;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  gap: 5%;
+}
+input,
+button {
+  height: 5vw;
+  background-color: white;
+}
+button {
+  cursor: pointer;
+}
